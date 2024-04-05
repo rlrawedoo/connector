@@ -2,4 +2,3 @@
 * Guewen Baconnier (Camptocamp)
 * Atchuthan, Sodexis
 * Florent Thomas (Mind and Go)
-* Fernando La Chica <fernandolachica@gmail.com>
